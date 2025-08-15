@@ -66,7 +66,7 @@ export default function Hero() {
               onClick={scrollToPricing}
               className="bg-white text-black px-8 py-4 rounded-lg text-lg font-semibold hover:bg-gray-100 transition-colors shadow-lg"
             >
-              Pricing
+              See Pricing
             </button>
             
             <div className="flex flex-col sm:flex-row items-center space-y-2 sm:space-y-0 sm:space-x-6">
