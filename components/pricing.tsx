@@ -83,7 +83,7 @@ export default function Pricing() {
               </div>
               <div className="flex items-start">
                 <CheckCircle className="w-5 h-5 text-green-600 mr-3 mt-0.5 flex-shrink-0" />
-                <span className="text-gray-700">Licensed and insured technicians</span>
+                <span className="text-gray-700">Trained and insured technicians</span>
               </div>
               <div className="flex items-start">
                 <CheckCircle className="w-5 h-5 text-green-600 mr-3 mt-0.5 flex-shrink-0" />
